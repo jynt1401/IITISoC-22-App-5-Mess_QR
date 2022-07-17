@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mess QR</string>
+    <string name="todo">TODO</string>
+    <string name="t">TODO</string>
+    <string name="timmer">timmer</string>
+    <string name="monthly">MONTHLY</string>
+    <string name="active_plan">ACTIVE PLAN</string>
+    <string name="scan">SCAN</string>
+    <string name="special_meal">Special meal</string>
+    <string name="payment">PAYMENT</string>
+    <string name="available_plans">AVAILABLE PLANS</string>
+    <string name="special_meall">SPECIAL MEAL</string>
+    <string name="todoo">TODO</string>
+</resources>
