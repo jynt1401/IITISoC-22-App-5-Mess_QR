@@ -15,4 +15,5 @@
     <string name="dinner_available">Dinner available</string>
     <string name="chicken_curry">1. Chicken Curry</string>
     <string name="curry_description">One coupon consists of 2 pieces and</string>
+    <string name="Signup">Not have any account? <b>Sign up</b> </string>
 </resources>
