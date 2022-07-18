@@ -9,6 +9,10 @@
     <string name="special_meal">Special meal</string>
     <string name="payment">PAYMENT</string>
     <string name="available_plans">AVAILABLE PLANS</string>
-    <string name="special_meall">SPECIAL MEAL</string>
+    <string name="special_meal_caps">SPECIAL MEAL</string>
     <string name="todoo">TODO</string>
+    <string name="confirm_payment">Confirm Payment</string>
+    <string name="dinner_available">Dinner available</string>
+    <string name="chicken_curry">1. Chicken Curry</string>
+    <string name="curry_description">One coupon consists of 2 pieces and</string>
 </resources>
