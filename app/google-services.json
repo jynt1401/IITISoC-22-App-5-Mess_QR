@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068024330038",
+    "project_id": "mess-qr-system",
+    "storage_bucket": "mess-qr-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068024330038:android:763d2927b796095200a597",
+        "android_client_info": {
+          "package_name": "com.example.messqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068024330038-j3guto0un8jdulc7usn4outofqlu8q2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messqr",
+            "certificate_hash": "414c1b328c99cd30a44c69845578e7d649728158"
+          }
+        },
+        {
+          "client_id": "1068024330038-q84eb25a1hsfcglnp0lsokjfue115c6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIHe3OTge5SwWP3wb1RCVB_HVwrse66h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068024330038-q84eb25a1hsfcglnp0lsokjfue115c6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
