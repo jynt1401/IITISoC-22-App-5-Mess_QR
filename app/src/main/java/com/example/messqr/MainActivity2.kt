@@ -3,6 +3,7 @@ package com.example.messqr
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Button
 import android.widget.TextView
 
 class MainActivity2 : AppCompatActivity() {
@@ -13,6 +14,11 @@ class MainActivity2 : AppCompatActivity() {
         signUp.setOnClickListener {
             val intent=Intent(this,SignUpActivity::class.java)
             startActivity(intent)
+        }
+        val button:Button=findViewById(R.id.button)
+        button.setOnClickListener {
+            val intent2=Intent(this, MainActivity3::class.java)
+            startActivity(intent2)
         }
     }
 }
