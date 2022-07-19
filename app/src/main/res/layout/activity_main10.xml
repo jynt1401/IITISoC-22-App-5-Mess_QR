@@ -9,7 +9,7 @@
         android:id="@+id/textView23"
         android:layout_width="141dp"
         android:layout_height="51dp"
-        android:layout_marginTop="52dp"
+        android:layout_marginTop="40dp"
         android:text="HISTORY"
         android:textColor="@color/Cyan"
         android:textSize="34sp"
@@ -142,5 +142,17 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/textView32"
         app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="252dp"
+        android:layout_height="384dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView23"
+        app:layout_constraintVertical_bias="0.057"
+        app:srcCompat="@drawable/whatsapp_image_2022_07_19_at_3_38_04_pm" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
