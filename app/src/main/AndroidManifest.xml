@@ -10,6 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MessQR">
         <activity
+            android:name=".MainActivity11"
+            android:exported="false"
+            android:label="@string/title_activity_main11" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity10"
             android:exported="false" />
         <activity
