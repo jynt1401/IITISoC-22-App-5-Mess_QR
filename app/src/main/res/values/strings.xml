@@ -16,4 +16,8 @@
     <string name="chicken_curry">1. Chicken Curry</string>
     <string name="curry_description">One coupon consists of 2 pieces and</string>
     <string name="Signup">Not have any account? <b>Sign up</b> </string>
+    <string name="title_activity_main11">MainActivity11</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
