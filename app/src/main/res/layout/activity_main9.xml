@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity9">
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="410dp"
+        android:layout_height="106dp"
+        android:background="@color/dullCyan"
+
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/dullCyan"
+        android:text="ANNOUNCEMENT"
+        android:textAlignment="center"
+        android:textColor="@color/Cyan"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/textView18"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/textView18"
+        app:layout_constraintTop_toTopOf="@+id/textView18" />
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="342dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="8dp"
+        android:iconifiedByDefault="false"
+
+        android:queryHint="SEARCH ANNOUNCEMENT"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView18"
+        app:layout_constraintVertical_bias="0.0">
+
+    </SearchView>
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+
+        android:background="@color/Cyan"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchView"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageButton
+        android:id="@+id/announce_Ibutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/round_back"
+        android:padding="8dp"
+        android:importantForAccessibility="no"
+        android:minWidth="48dp"
+        android:src="@drawable/ic_baseline_notifications_none_24"
+        app:layout_constraintEnd_toStartOf="@id/payment_Ibutton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/textView28"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <ImageButton
+        android:id="@+id/payment_Ibutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="48dp"
+        android:background="@color/Cyan"
+        android:importantForAccessibility="no"
+        app:layout_constraintBottom_toBottomOf="@id/announce_Ibutton"
+        app:layout_constraintStart_toEndOf="@id/announce_Ibutton"
+        app:layout_constraintEnd_toStartOf="@id/scan_Ibutton"
+        app:layout_constraintTop_toTopOf="@id/announce_Ibutton"
+        app:srcCompat="@drawable/ic_payment_icon_24" />
+
+    <ImageButton
+        android:id="@+id/scan_Ibutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Cyan"
+        android:minWidth="48dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/ic_scanner_24"
+        app:layout_constraintBottom_toBottomOf="@id/payment_Ibutton"
+        app:layout_constraintTop_toTopOf="@id/payment_Ibutton"
+        app:layout_constraintStart_toEndOf="@id/payment_Ibutton"
+        app:layout_constraintEnd_toStartOf="@id/history_Ibutton"
+        />
+
+    <ImageButton
+        android:id="@+id/history_Ibutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Cyan"
+        android:minWidth="48dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/ic_history_24"
+        app:layout_constraintBottom_toBottomOf="@id/payment_Ibutton"
+        app:layout_constraintStart_toEndOf="@id/scan_Ibutton"
+        app:layout_constraintEnd_toStartOf="@id/profile_Ibutton"
+        app:layout_constraintTop_toTopOf="@id/payment_Ibutton" />
+
+    <ImageButton
+        android:id="@+id/profile_Ibutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Cyan"
+        android:layout_marginEnd="8dp"
+        android:minWidth="48dp"
+
+        android:importantForAccessibility="no"
+        android:src="@drawable/ic_baseline_account_circle_24"
+        app:layout_constraintBottom_toBottomOf="@id/history_Ibutton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/history_Ibutton"
+        app:layout_constraintTop_toTopOf="@id/history_Ibutton"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

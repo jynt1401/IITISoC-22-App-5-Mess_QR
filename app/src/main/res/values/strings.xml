@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mess QR</string>
+    <string name="todo">TODO</string>
+    <string name="t">TODO</string>
+    <string name="timmer">timmer</string>
+    <string name="monthly">MONTHLY</string>
+    <string name="active_plan">ACTIVE PLAN</string>
+    <string name="scan">SCAN</string>
+    <string name="special_meal">Special meal</string>
+    <string name="payment">PAYMENT</string>
+    <string name="available_plans">AVAILABLE PLANS</string>
+    <string name="special_meal_caps">SPECIAL MEAL</string>
+    <string name="todoo">TODO</string>
+    <string name="confirm_payment">Confirm Payment</string>
+    <string name="dinner_available">Dinner available</string>
+    <string name="chicken_curry">1. Chicken Curry</string>
+    <string name="curry_description">One coupon consists of 2 pieces and</string>
+    <string name="Signup">Not have any account? <b>Sign up</b> </string>
+    <string name="title_activity_main11">MainActivity11</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
