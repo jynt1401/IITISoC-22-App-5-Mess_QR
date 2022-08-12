@@ -17,3 +17,20 @@ management of students’ data by authorities.
 - Firebase
 - Adobe XD
 
+
+## FEATURES
+
+- QR code scanning
+- Payment gateway
+- Real time announcement
+- Monthly record in tabular form
+- Multi user interface
+- authentication using personal email
+
+## **HOW TO USE APP**
+
+- User can login through Admin or student Id
+
+
+
+
