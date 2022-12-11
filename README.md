@@ -29,12 +29,12 @@ management of students’ data by authorities.
 
 ## **HOW TO USE APP**
 
--User can login through Admin or student Id
--Student scan the qr code and will be allowed to take meal
--They can get information regarding mess
--They can pay for the meal also
--Admin can announce the information
--Admin can charge for the meal
+-User can login through Admin or student Id <br>
+-Student scan the qr code and will be allowed to take meal <br>
+-They can get information regarding mess <br>
+-They can pay for the meal also <br>
+-Admin can announce the information <br>
+-Admin can charge for the meal <br>
 
 
 
