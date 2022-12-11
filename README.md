@@ -67,7 +67,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jayant Belwanshi - jayantbelwanshi@1401.com ( github-https://github.com/jynt1401)
+Jayant Belwanshi - jayantbelwanshi@1401.com ( github-https://github.com/jynt1401) <br>
 Ishaan Mittal - ishaanmittal123@gmail.com ( github-https://github.com/ishaanmittal-6176)
 
 
