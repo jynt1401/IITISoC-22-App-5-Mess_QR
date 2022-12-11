@@ -50,10 +50,6 @@ management of students’ data by authorities.
 ## APP WALKTHROUGH
 
 
-<div width="100%">
-	![lv_0_20220816163555__1__AdobeExpress](https://user-images.githubusercontent.com/100084399/206899542-16c98c71-15f5-4005-a344-cc2c810b827e.gif)
-	
-</div>
 
 
 
