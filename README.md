@@ -39,7 +39,7 @@ management of students’ data by authorities.
 
 
 
-# APP
+## APP
 ![14](https://user-images.githubusercontent.com/100084399/206899248-17663ed0-b4b3-448c-ac42-5546075b0dae.png)
 
 
@@ -47,15 +47,10 @@ management of students’ data by authorities.
 ![15](https://user-images.githubusercontent.com/100084399/206899258-526c4933-537a-4136-8b20-64ecc8e33361.png)
 
 
+## APP WALKTHROUGH
 
+![lv_0_20220816163555__1__AdobeExpress](https://user-images.githubusercontent.com/100084399/206899542-16c98c71-15f5-4005-a344-cc2c810b827e.gif)
 
-
-
-### Built With
-This section list of  major frameworks that built my project here are a few examples.
-* [Html](https://www.w3schools.com/html/)
-* [Css](https://www.w3schools.com/css/)
-* [Java Script](https://www.w3schools.com/js/)
 
 
 
@@ -72,7 +67,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jayant Belwanshi - jayantbelwanshi@1401.com
+Jayant Belwanshi - jayantbelwanshi@1401.com ( github-https://github.com/jynt1401)
+Ishaan Mittal - ishaanmittal123@gmail.com ( github-https://github.com/ishaanmittal-6176)
 
 
 
