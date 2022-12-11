@@ -49,6 +49,8 @@ management of students’ data by authorities.
 
 ## APP WALKTHROUGH
 
+<a href="url"><img src="[https://user-images.githubusercontent.com/100084399/206899542-16c98c71-15f5-4005-a344-cc2c810b827e.gif]" align="left" height="48" width="48" ></a>
+
 ![lv_0_20220816163555__1__AdobeExpress](https://user-images.githubusercontent.com/100084399/206899542-16c98c71-15f5-4005-a344-cc2c810b827e.gif width="250" height="250")
 
 
